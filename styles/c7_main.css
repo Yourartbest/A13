@@ -151,6 +151,7 @@ footer p {
 #nav_menu ul ul{
 	top: 100%;
 	display: none;
+	position: absolute;
 }
 #nav_menu ul ul li{
 	float:none
